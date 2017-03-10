@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/taobao.iml" filepath="$PROJECT_DIR$/taobao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamline.iml" filepath="$PROJECT_DIR$/streamline.iml" />
     </modules>
   </component>
 </project>
